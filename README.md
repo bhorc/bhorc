@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/bhorc"><img src="https://img.shields.io/badge/github-@bhorc-blueviolet?logo=github&style=for-the-badge"></a>
   <a href="https://codepen.io/Crook"><img src="https://img.shields.io/badge/codepen-@Crook-orange?logo=codepen&style=for-the-badge"></a>
-  <a href="https://t.me/AndrewCrook"><img src="https://img.shields.io/badge/telegram-AndrewCrook-blue?logo=Telegram&style=for-the-badge"></a>
+  <a href="https://t.me/AndrewCrook"><img src="https://img.shields.io/badge/telegram-@AndrewCrook-blue?logo=Telegram&style=for-the-badge"></a>
 </p>
 <h3 align="center">
   <a href="#about">#About me</a>
@@ -17,14 +17,11 @@
   <a href="#experience">#Experience</a>
        
   <a href="google.com">#Contact me</a>
-       
-  <a href="google.com">#PDF Resume</a>
 </p>
 
 ## About
-```
-hi
-```
+> Hello, my name is Andrew, I am a Front-end developer. My career as a web programmer began in my teenage years, that's when I decided to connect my life with programming. Throughout the whole time, I was met with difficulties, which I enthusiastically carried out over time. To date, I can definitely say that I am not afraid of difficulties, but only strive to develop and improve, deepening the acquired skills, and I am looking forward to new discoveries!
+
 
 ### Education
 ```
@@ -75,13 +72,15 @@ Worked: March 2022 – Present
 > Development of telegram bots; Creation of automation systems for retail trade of virtual items; Creation of extensions to increase the functionality of the site and speed up work in trade; Creation of price comparison parsers between several sites; Creation of a system for estimating the value of virtual items based on a large number of internal characteristics; Creation of statistics systems and summarization of gross profit and expenses of the company;
 
 ## Contacts
-<h4>E-mail: <a href="mailto:7helfs@gmail.com">7helfs@gmail.com</a></h4>
-<h4>Telegram: <a href="https://t.me/AndrewCrook">@AndrewCrook</a></h4>
-<h4>Phone number: <ins>+380 (66) 221-96-99</ins></h4>
-
+<ul>
+  <li>E-mail: <a href="mailto:7helfs@gmail.com">7helfs@gmail.com</a></li>
+  <li>Telegram: <a href="https://t.me/AndrewCrook">@AndrewCrook</a></li>
+  <li>Phone number: <ins>+380 (66) 221-96-99</ins></li>
+</ul>
+ 
 <table>
   <tr>
-    <td><a href="google.com">Github Projects</a></td>
+    <td><a href="https://github.com/bhorc?tab=repositories">Github Projects</a></td>
     <td><a href="https://codepen.io/Crook/pens/popular">Codepen Projects</a></td>
     <td>                                                                                                                                               </td>
     <td><a href="#andrew-crook"><img width="40" src="https://user-images.githubusercontent.com/57762921/180845542-a023cd96-f813-43f9-b3aa-fb29ec920a2d.png"></a></td>
