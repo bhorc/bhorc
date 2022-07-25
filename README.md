@@ -9,13 +9,15 @@
 </p>
 <h3 align="center">
   <a href="#about">#About me</a>
-  —
+       
   <a href="#education">#Education</a>
-  —
+       
   <a href="#skills">#Skills</a>
-  —
+       
+  <a href="#experience">#Experience</a>
+       
   <a href="google.com">#Contact me</a>
-  —
+       
   <a href="google.com">#PDF Resume</a>
 </p>
 
@@ -26,8 +28,7 @@ hi
 
 ### Education
 ```
-University: 
-Degree: 
+Programming School: "Школа комп'ютерної майстерності"
 Study period: December 2013 – June 2016
 ```
 ```
@@ -73,10 +74,15 @@ Worked: March 2022 – Present
 ```
 > Development of telegram bots; Creation of automation systems for retail trade of virtual items; Creation of extensions to increase the functionality of the site and speed up work in trade; Creation of price comparison parsers between several sites; Creation of a system for estimating the value of virtual items based on a large number of internal characteristics; Creation of statistics systems and summarization of gross profit and expenses of the company;
 
+## Contacts
+<h4>E-mail: <a href="mailto:7helfs@gmail.com">7helfs@gmail.com</a></h4>
+<h4>Telegram: <a href="https://t.me/AndrewCrook">@AndrewCrook</a></h4>
+<h4>Phone number: <ins>+380 (66) 221-96-99</ins></h4>
+
 <table>
   <tr>
     <td><a href="google.com">Github Projects</a></td>
-    <td><a href="google.com">Codepen Projects</a></td>
+    <td><a href="https://codepen.io/Crook/pens/popular">Codepen Projects</a></td>
     <td>                                                                                                                                               </td>
     <td><a href="#andrew-crook"><img width="40" src="https://user-images.githubusercontent.com/57762921/180845542-a023cd96-f813-43f9-b3aa-fb29ec920a2d.png"></a></td>
   </tr> 
