@@ -1,5 +1,4 @@
 # Andrew Crook (BHORC)
 ## Front-end Developer & Designer
 
-|| hi ||
-|---|:--:|---|
+# Example text {style=text-align:center}
