@@ -25,9 +25,17 @@ hi
 ```
 
 ### Education
-> hello
+```
+University: 
+Degree: 
+Study period: December 2013 – June 2016
+```
+```
+University: "Ivano-Frankivsk National Technical University of Oil and Gas"
+Degree: Bachelor of automation and computer-integrated technologies
+Study period: September 2016 – June 2020
+```
 
-> hello
 
 ## Skills
 | № |       Front-end      |     Back-end    |           Knowledge technologies          |    Software   | Initial knowledge | Other languages |
@@ -45,9 +53,25 @@ hi
 ```
 Position: Front-end mentor
 Location: Ivano-Frankivsk, Ukraine
+Worked: September 2020 – June 2022
 ```
+> Taught students aged 14-18 in web programming, developed a number of projects related to the life of the city. A school website was created, and an "Electronic diary" application was developed for school purposes.
 
+**Freelance at the city level**
+```
+Position: Front-end Developer
+Location: Ivano-Frankivsk, Ukraine
+Worked: June 2020 – January 2021, January 2022 - April 2022
+```
+> Created an online store for a company selling windows and doors; Created layout for NFT crypto project; Created the design and website for the woodworking company Great timber LTD; Performed work on site optimization; Performed work on landing a site on Wordpress;
 
+**Personal company - BHORC Trading CO**
+```
+Position: Full-stack Developer, Trader, Owner
+Location: Ivano-Frankivsk, Ukraine
+Worked: March 2022 – Present
+```
+> Development of telegram bots; Creation of automation systems for retail trade of virtual items; Creation of extensions to increase the functionality of the site and speed up work in trade; Creation of price comparison parsers between several sites; Creation of a system for estimating the value of virtual items based on a large number of internal characteristics; Creation of statistics systems and summarization of gross profit and expenses of the company;
 
 <table>
   <tr>
