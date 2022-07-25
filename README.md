@@ -16,7 +16,7 @@
        
   <a href="#experience">#Experience</a>
        
-  <a href="google.com">#Contact me</a>
+  <a href="#contacts">#Contact me</a>
 </p>
 
 ## About
