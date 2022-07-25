@@ -8,7 +8,11 @@
   <a href="https://t.me/AndrewCrook"><img src="https://img.shields.io/badge/telegram-AndrewCrook-blue?logo=Telegram&style=for-the-badge"></a>
 </p>
 <h3 align="center">
-  <a href="google.com">#About me</a>
+  <a href="#about">#About me</a>
+  —
+  <a href="#education">#Education</a>
+  —
+  <a href="#skills">#Skills</a>
   —
   <a href="google.com">#Contact me</a>
   —
@@ -26,19 +30,30 @@ hi
 > hello
 
 ## Skills
-|       Front-end      |     Back-end    |           Knowledge technologies          |    Software   | Initial knowledge | Other languages |
-|:--------------------:|:---------------:|:-----------------------------------------:|:-------------:|:-----------------:|:---------------:|
-|    JS ES6+, jQuery   |     Node.js     |              BEM methodology              |  Git desktop  |     AngularJS     |      Python     |
-|      HTML5, CSS3     | Expess, Fastify |            REST, API, Websocket           |    Postman    |     TypeScript    |       C++       |
-| Pug, LESS, SCSS/SASS |     Mongodb     |        Landing a site on Wordpress        |   Burpsuite   |        php        |                 |
-|      Bootstrap 5     |    Socket.io    |            Chrome extension dev           | Gulp, Webpack |                   |                 |
-|                      |                 | Web Performance and <br>Page optimization |  Open Server  |                   |                 |
-|                      |                 |              Telegram Bot API             |     Figma     |                   |                 |
-|                      |                 |                                           |  Photoshop CC |                   |                 |
+| № |       Front-end      |     Back-end    |           Knowledge technologies          |    Software   | Initial knowledge | Other languages |
+|:-:|:--------------------:|:---------------:|:-----------------------------------------:|:-------------:|:-----------------:|:---------------:|
+| 1 |    JS ES6+, jQuery   |     Node.js     |              BEM methodology              |  Git desktop  |     AngularJS     |      Python     |
+| 2 |      HTML5, CSS3     | Expess, Fastify |            REST, API, Websocket           |    Postman    |     TypeScript    |       C++       |
+| 3 | Pug, LESS, SCSS/SASS |     Mongodb     |     Landing a site on<br>CMS Wordpress    |   Burpsuite   |        php        |                 |
+| 4 |      Bootstrap 5     |    Socket.io    |            Chrome extension dev           |  Open Server  |                   |                 |
+| 5 |                      |                 | Web Performance and <br>Page optimization | Gulp, Webpack |                   |                 |
+| 6 |                      |                 |              Telegram Bot API             |     Figma     |                   |                 |
+| 7 |                      |                 |                                           |  Photoshop CC |                   |                 |
 
 ## Experience
+**Private Programming School - "Школа комп'ютерної майстерності"**
 ```
-hi
+Position: Front-end mentor
+Location: Ivano-Frankivsk, Ukraine
 ```
 
-## [Github Projects](https://github.com/bhorc?tab=repositories)
+
+
+<table>
+  <tr>
+    <td><a href="google.com">Github Projects</a></td>
+    <td><a href="google.com">Codepen Projects</a></td>
+    <td>                                                                                                                                               </td>
+    <td><a href="#andrew-crook"><img width="40" src="https://user-images.githubusercontent.com/57762921/180845542-a023cd96-f813-43f9-b3aa-fb29ec920a2d.png"></a></td>
+  </tr> 
+</table>
