@@ -1,4 +1,6 @@
 # Andrew Crook (BHORC)
 ## Front-end Developer & Designer
 
-# Example text {style=text-align:center}
+| |
+| :-: |
+| Excerpts from Romeo and Juliet (arr. V. Borisovsky) |
