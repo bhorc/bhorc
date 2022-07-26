@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/bhorc"><img width="200" src="https://assets.codepen.io/71580/internal/avatars/users/default.png?fit=crop&format=auto&height=512&version=1610107482&width=512"></a>
+  <a href="https://github.com/bhorc/bhorc/blob/main/README.md"><img width="200" src="https://assets.codepen.io/71580/internal/avatars/users/default.png?fit=crop&format=auto&height=512&version=1610107482&width=512"></a>
 </p>
 <h1 align="center">Andrew Crook</h1>
 <p align="center">
