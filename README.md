@@ -75,6 +75,7 @@ Worked: March 2022 – Present
 <ul>
   <li>E-mail: <a href="mailto:7helfs@gmail.com">7helfs@gmail.com</a></li>
   <li>Telegram: <a href="https://t.me/AndrewCrook">@AndrewCrook</a></li>
+  <li>Discord: <a href="https://discordapp.com/users/406898417856544769">Andrew Crook#7389</a></li>
   <li>Phone number: <ins>+380 (66) 221-96-99</ins></li>
 </ul>
  
