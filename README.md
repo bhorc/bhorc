@@ -82,7 +82,7 @@ Worked: March 2022 – Present
 <table>
   <tr>
     <td><a href="https://github.com/bhorc?tab=repositories">Github Projects</a></td>
-    <td><a href="https://codepen.io/Crook/pens/popular">Codepen Projects</a></td>
+    <td><a href="https://codepen.io/Crook/pens/showcase">Codepen Projects</a></td>
     <td>                                                                                                                                               </td>
     <td><a href="#andrew-crook"><img width="40" src="https://user-images.githubusercontent.com/57762921/180845542-a023cd96-f813-43f9-b3aa-fb29ec920a2d.png"></a></td>
   </tr> 
