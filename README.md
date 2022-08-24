@@ -20,7 +20,7 @@
 </p>
 
 ## About
-> Hello, my name is Andrew, I am a Front-end developer. My career as a web programmer began in my teenage years, that's when I decided to connect my life with programming. Throughout the whole time, I was met with difficulties, which I enthusiastically carried out over time. To date, I can definitely say that I am not afraid of difficulties, but only strive to develop and improve, deepening the acquired skills, and I am looking forward to new discoveries!
+> Hello, my name is Andrew, I am a Front-end developer. My career as a web programmer began in my teenage years, that's when I decided to connect my life with programming. Throughout the whole time, I met many difficulties, which I enthusiastically carried out over time. To date, I can definitely say that I am not afraid of difficulties, but only strive to develop and improve, deepening the acquired skills, and I am looking forward to new discoveries!
 
 
 ### Education
