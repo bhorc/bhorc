@@ -36,15 +36,15 @@ Study period: September 2016 – June 2020
 
 
 ## Skills
-| № |       Front-end      |     Back-end      |           Knowledge technologies          |    Software   | Initial knowledge |
-|:-:|:--------------------:|:-----------------:|:-----------------------------------------:|:-------------:|:-----------------:|
-| 1 |    JS ES6+, jQuery   |     Node.js       |              BEM methodology              |  Git desktop  |       React       |
-| 2 |      HTML5, CSS3     | Expess, Fastify   |            REST, API, Websocket           |    Postman    |     TypeScript    |
-| 3 | Pug, LESS, SCSS/SASS | Mongodb, Mongoose |     Landing a site on<br>CMS Wordpress    |   Burpsuite   |        php        |
-| 4 | Bootstrap 5, Tailwind|     Socket.io     |            Chrome extension dev           |  Open Server  |      Python       |
-| 5 |                      |     Swagger       | Web Performance and <br>Page optimization | Gulp, Webpack |                   |
-| 6 |                      |                   |              Telegram Bot API             |     Figma     |                   |
-| 7 |                      |                   |                                           |  Photoshop CC |                   |
+| № |       Front-end      |     Back-end      |           Knowledge technologies            |    Software   | Initial knowledge |
+|:-:|:--------------------:|:-----------------:|:-------------------------------------------:|:-------------:|:-----------------:|
+| 1 |    JS ES6+, jQuery   |     Node.js       |              BEM methodology                |  Git desktop  |       React       |
+| 2 |      HTML5, CSS3     | Expess, Fastify   |            REST, API, Websocket             |    Postman    |     TypeScript    |
+| 3 | Pug, LESS, SCSS/SASS | Mongodb, Mongoose |     Landing a site on<br>CMS Wordpress      |   Burpsuite   |        php        |
+| 4 | Bootstrap 5, Tailwind|     Socket.io     |            Chrome extension dev             |  Open Server  |      Python       |
+| 5 |                      |     Swagger       |  Web Performance and <br>Page optimization  | Gulp, Webpack |                   |
+| 6 |                      |                   |              Telegram Bot API               |     Figma     |                   |
+| 7 |                      |                   | Creation of technical OpenAPI Specification |  Photoshop CC |                   |
 
 ## Experience
 **Private Programming School - "Школа комп'ютерної майстерності"**
