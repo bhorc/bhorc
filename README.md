@@ -36,16 +36,16 @@ Study period: September 2016 – June 2020
 
 
 ## Developer skills
-| № |          Front-end         |      Back-end       |           Knowledge technologies               |    Software   | Initial knowledge |
-|:-:|:--------------------------:|:-------------------:|:----------------------------------------------:|:-------------:|:-----------------:|
-| 1 |    JS ES6+, Typescript     |      Node.js        |              BEM methodology                   |  Git desktop  |        php        |
-| 2 |         HTML5, CSS3        |   Expess, Fastify   | REST/CRUD API, <br>Websockets, CORS principles |    Postman    |      Python       |
-| 3 |    Pug, LESS, SCSS/SASS    |  Mongodb, Mongoose  |     Landing a site on<br>CMS Wordpress         |   Burpsuite   |   AWS services    |
-| 4 | Bootstrap 5, Tailwind, MUI |      Socket.io      |            Creating Chrome extensions          |  Open Server  |                   |
-| 5 |        React, jQuery       |       Swagger       |    Web Performance and <br>Page optimization   | Gulp, Webpack |                   |
-| 6 |                            | Selenium, Puppeteer |  Scraping sites and <br>creating Telegram Bots |     Figma     |                   |
-| 7 |                            |                     | Creation of technical<br>OpenAPI Specification |  Photoshop CC |                   |
-| 8 |                            |                     |             Big data experience                |               |                   |
+| № |          Front-end         |      Back-end       |           Knowledge technologies               |          Software          | Initial knowledge  |
+|:-:|:--------------------------:|:-------------------:|:----------------------------------------------:|:--------------------------:|:------------------:|
+| 1 |    JS ES6+, Typescript     |      Node.js        |              BEM methodology                   |      Postman, Burpsuite    |     Python, php    |
+| 2 |         HTML5, CSS3        |   Expess, Fastify   | REST/CRUD API, <br>Websockets, CORS principles | Git desktop, <br>GitKraken |     Git console    |
+| 3 |    Pug, LESS, SCSS/SASS    |  Mongodb, Mongoose  |     Landing a site on<br>CMS Wordpress         |    Open Server, Heroku     |AWS services, <br>Google console API|
+| 4 | Bootstrap 5, Tailwind, MUI |      Socket.io      |            Creating Chrome extensions          |        Gulp, Webpack       |                    |
+| 5 |        React, jQuery       |       Swagger       |    Web Performance and <br>Page optimization   |      Figma, Photoshop      |                    |
+| 6 |                            | Selenium, Puppeteer |  Scraping sites and <br>creating Telegram Bots |                            |                    |
+| 7 |                            |                     | Creation of technical<br>OpenAPI Specification |                            |                    |
+| 8 |                            |                     |             Big data experience                |                            |                    |
 
 ## Designer skills
 | № |   Soft-skills   |     Knowledge technologies    |   Software   |
