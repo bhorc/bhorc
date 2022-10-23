@@ -35,16 +35,27 @@ Study period: September 2016 – June 2020
 ```
 
 
-## Skills
+## Developer skills
 | № |       Front-end      |     Back-end      |           Knowledge technologies               |    Software   | Initial knowledge |
 |:-:|:--------------------:|:-----------------:|:----------------------------------------------:|:-------------:|:-----------------:|
-| 1 |    JS ES6+, jQuery   |     Node.js       |              BEM methodology                   |  Git desktop  |       React       |
-| 2 |      HTML5, CSS3     | Expess, Fastify   |            REST, API, Websocket                |    Postman    |     TypeScript    |
-| 3 | Pug, LESS, SCSS/SASS | Mongodb, Mongoose |     Landing a site on<br>CMS Wordpress         |   Burpsuite   |        php        |
-| 4 | Bootstrap 5, Tailwind|     Socket.io     |            Chrome extension dev                |  Open Server  |      Python       |
-| 5 |                      |     Swagger       |    Web Performance and <br>Page optimization   | Gulp, Webpack |                   |
+| 1 |  JS ES6+, Typescript |     Node.js       |              BEM methodology                   |  Git desktop  |        php        |
+| 2 |      HTML5, CSS3     | Expess, Fastify   |            REST, API, Websocket                |    Postman    |      Python       |
+| 3 | Pug, LESS, SCSS/SASS | Mongodb, Mongoose |     Landing a site on<br>CMS Wordpress         |   Burpsuite   |   AWS services    |
+| 4 | Bootstrap 5, Tailwind|     Socket.io     |            Chrome extension dev                |  Open Server  |                   |
+| 5 |     React, jQuery    |     Swagger       |    Web Performance and <br>Page optimization   | Gulp, Webpack |                   |
 | 6 |                      |                   |              Telegram Bot API                  |     Figma     |                   |
 | 7 |                      |                   | Creation of technical<br>OpenAPI Specification |  Photoshop CC |                   |
+| 8 |                      |                   |             Big data experience                |               |                   |
+
+## Designer skills
+| № |   Soft-skills   |     Knowledge technologies    |   Software   |
+|:-:|:---------------:|:-----------------------------:|:------------:|
+| 1 |    Creativity   |      Basics of web design     |     Figma    |
+| 2 | Problem-solving |          UI/UX design         | Photoshop CC |
+| 3 |   Adaptability  |       Responsive design       |              |
+| 4 |    Typography   |       Design principles       |              |
+| 5 |    Web design   |        WordPress theme        |              |
+| 6 | Design software | Photography and Photo editing |              |
 
 ## Experience
 **Private Programming School - "Школа комп'ютерної майстерності"**
