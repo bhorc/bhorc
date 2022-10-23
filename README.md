@@ -39,7 +39,7 @@ Study period: September 2016 – June 2020
 | № |          Front-end         |      Back-end       |           Knowledge technologies               |    Software   | Initial knowledge |
 |:-:|:--------------------------:|:-------------------:|:----------------------------------------------:|:-------------:|:-----------------:|
 | 1 |    JS ES6+, Typescript     |      Node.js        |              BEM methodology                   |  Git desktop  |        php        |
-| 2 |         HTML5, CSS3        |   Expess, Fastify   |            REST, API, Websocket                |    Postman    |      Python       |
+| 2 |         HTML5, CSS3        |   Expess, Fastify   | REST/CRUD API, <br>Websockets, CORS principles |    Postman    |      Python       |
 | 3 |    Pug, LESS, SCSS/SASS    |  Mongodb, Mongoose  |     Landing a site on<br>CMS Wordpress         |   Burpsuite   |   AWS services    |
 | 4 | Bootstrap 5, Tailwind, MUI |      Socket.io      |            Creating Chrome extensions          |  Open Server  |                   |
 | 5 |        React, jQuery       |       Swagger       |    Web Performance and <br>Page optimization   | Gulp, Webpack |                   |
