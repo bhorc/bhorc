@@ -58,6 +58,15 @@ Study period: September 2016 – June 2020
 
 ## Experience
 **Private Programming School - "Школа комп'ютерної майстерності"**
+<details>
+  <summary><b>Private Programming School - "Школа комп'ютерної майстерності". (Сlickable)</b></summary>
+  <ol>
+    <li>Layout design for a computer school website: <a href="https://www.figma.com/file/0aIDrOZIoOtHTYGMajR5t7/IT-%D1%88%D0%BA%D0%BE%D0%BB%D0%B0?node-id=0%3A1">Figma</a></li>
+    <li>Layout design for the project "Electronic diary": <a href="https://www.figma.com/file/UOdHaMV4a5aD1GIIrLBAHN/%D0%95%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9-%D1%89%D0%BE%D0%B4%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA?node-id=0%3A1">Figma</a></li>
+    <li>Layout design to highlight the issue of a person's social mission in society: <a href="https://www.figma.com/file/mZKrHuwpmxAQ7vA9WMml43/%D0%BC%D0%B0%D0%BA%D0%B5%D1%82?node-id=0%3A1">Figma</a></li>
+  </ol>
+</details>
+
 ```
 Position: Front-end mentor
 Location: Ivano-Frankivsk, Ukraine
@@ -65,7 +74,14 @@ Worked: September 2020 – June 2022
 ```
 > Taught students aged 14-18 in web programming, developed a number of projects related to the life of the city. A school website was created, and an "Electronic diary" application was developed for school purposes.
 
-**Freelance at the city level**
+<details>
+  <summary><b>Freelance at the city level. (Сlickable)</b></summary>
+  <ol>
+    <li>Layout design for the Windows and Doors company, which sells windows and doors: <a href="https://www.figma.com/file/7BCZf4Vg3PUvilzPrVFSPy/%D0%92%D1%96%D0%BA%D0%BD%D0%B0-%D1%82%D0%B0-%D0%B4%D0%B2%D0%B5%D1%80%D1%96?node-id=0%3A1">Figma</a></li>
+    <li>Creation of an extension to simplify the search for item rarity on the website of the NFT project by Magiceden: <a href="https://github.com/bhorc/extention__Magiceden-Rarity">Extention</a></li>
+  </ol>
+</details>
+
 ```
 Position: Front-end Developer
 Location: Ivano-Frankivsk, Ukraine
@@ -73,7 +89,14 @@ Worked: June 2020 – January 2021, January 2022 - April 2022
 ```
 > Created an online store for a company selling windows and doors; Created layout for NFT crypto project; Created the design and website for the woodworking company Great timber LTD; Performed work on site optimization; Performed work on landing a site on Wordpress;
 
-**Personal company - BHORC Trading CO**
+<details>
+  <summary><b>Personal company - BHORC Trading CO. (Сlickable)</b></summary>
+  <ol>
+    <li>Design of a CRM system project for monitoring and tracking circulating funds in the form of in-game items in the CSGO game: <a href="https://www.figma.com/file/hTudgOWQuXUEGAczdQvzXR/Trading-Personal-Cabinet">Figma</a></li>
+    <li>Creating an extension for the cs.money site to virtualize items with trade ban: <a href="https://github.com/bhorc/extention__cs.money-virtual-first">Extention</a> and <a href="https://github.com/bhorc/server__cs.money-popular-api">Server</a></li>
+  </ol>
+</details>
+
 ```
 Position: Full-stack Developer, Trader, Owner
 Location: Ivano-Frankivsk, Ukraine
