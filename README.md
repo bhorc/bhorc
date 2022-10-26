@@ -77,6 +77,7 @@ Worked: September 2020 – June 2022
   <summary><b>Freelance at the city level. (Сlickable)</b></summary>
   <ol>
     <li>Layout design for the Windows and Doors company, which sells windows and doors: <a href="https://www.figma.com/file/7BCZf4Vg3PUvilzPrVFSPy/%D0%92%D1%96%D0%BA%D0%BD%D0%B0-%D1%82%D0%B0-%D0%B4%D0%B2%D0%B5%D1%80%D1%96?node-id=0%3A1">Figma</a></li>
+    <li>Layout design for GreatTimber Ltd, which sells lumber: <a href="https://www.figma.com/file/3FDIJFrt8dcLfZfVIWGIdt/Great-Timber-main-site?node-id=0%3A1">Figma</a></li>
     <li>Creation of an extension to simplify the search for item rarity on the website of the NFT project by Magiceden: <a href="https://github.com/bhorc/extention__Magiceden-Rarity">Extention</a></li>
   </ol>
 </details>
