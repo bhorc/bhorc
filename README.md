@@ -57,7 +57,6 @@ Study period: September 2016 – June 2020
 | 6 | Design software | Photography and Photo editing |              |
 
 ## Experience
-**Private Programming School - "Школа комп'ютерної майстерності"**
 <details>
   <summary><b>Private Programming School - "Школа комп'ютерної майстерності". (Сlickable)</b></summary>
   <ol>
