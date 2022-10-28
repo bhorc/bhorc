@@ -34,6 +34,14 @@ Degree: Bachelor of automation and computer-integrated technologies
 Study period: September 2016 – June 2020
 ```
 
+<details>
+  <summary><b>Hobbies. (Сlickable)</b></summary>
+  <ol>
+    <li>Investing, analysis of sales markets, creation of statistics, analysis of own capital investments on investment capacity</li>
+    <li>Teaching programming, mentoring in the field of IT</li>
+    <li>Bicycle trips in the surrounding regions, tourism in remote regions of the country, search for new acquaintances and connections</li>
+  </ol>
+</details>
 
 ## Developer skills
 | № |                Front-end              |      Back-end       |           Knowledge technologies               |          Software          | Initial knowledge  |
@@ -103,6 +111,14 @@ Location: Ivano-Frankivsk, Ukraine
 Worked: March 2022 – Present
 ```
 > Development of telegram bots; Creation of automation systems for retail trade of virtual items; Creation of extensions to increase the functionality of the site and speed up work in trade; Creation of price comparison parsers between several sites; Creation of a system for estimating the value of virtual items based on a large number of internal characteristics; Creation of statistics systems and summarization of gross profit and expenses of the company;
+
+<details>
+  <summary><b>My other works were done in the interim period and during the period of study. (Сlickable)</b></summary>
+  <ol>
+    <li>Created a maze game on the Pug preprocessor, which generates a traversal grid of the game, where all the logic is built without using JS, that is, only HTML and CSS, while all the map and moves will be generated automatically. The job is available here: <a href="https://codepen.io/Crook/full/ZExyaVK">Game</a></li>
+    <li>Made a fully automatic slider, with toggle delay and slide adjustment buttons, without using JS. The job is available here: <a href="https://codepen.io/Crook/full/abMRRj">Slider</a></li>
+  </ol>
+</details>
 
 ## Contacts
 <ul>
