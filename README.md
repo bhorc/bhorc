@@ -53,16 +53,71 @@ Study period: September 2016 – June 2020
 | 5 |                                   |       Swagger       |                   |                    |                        |
 | 6 |                                   | Selenium, Puppeteer |                   |                    |                        |
 
-### Developer skills (theoretical skills)
-| № |                Front-end                  |                    Back-end                    |   Chrome extensions development  |              Other              |
-|:-:|:-----------------------------------------:|:----------------------------------------------:|:--------------------------------:|:-------------------------------:|
-| 1 |             BEM methodology               |             REST/CRUD API, Websockets          |  Manifest v2 and v3 development  |   Creating Wordpress templates  |
-| 2 | Web Performance and <br>Page optimization | Creation of technical<br>OpenAPI Specification |    Сreation of dynamic popups    | Landing a site on CMS Wordpress |
-| 3 |        Adaptive and flexible layout       |               Live scraping sites              |   Live reload data manipulation  |                                 |
-| 4 |         Mobile first product design       |               Big data experience              |            Chrome API            |                                 |
-| 5 |                                           |              Creating Telegram Bots            | Сommunication between extensions |                                 |
-| 6 |                                           |                 MVC architecture               |  Live interception of requests   |                                 |
-| 7 |                                           |           Basics of web security, CORS         |                                  |                                 |
+<details>
+  <summary><b>Developer skills (theoretical skills). (Сlickable)</b></summary>
+  <table>
+  <thead>
+    <tr>
+      <th>№</th>
+      <th>Front-end</th>
+      <th>Back-end</th>
+      <th>Chrome extensions development</th>
+      <th>Other</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>BEM methodology</td>
+      <td>REST/CRUD API, Websockets</td>
+      <td>Manifest v2 and v3 development</td>
+      <td>Creating Wordpress templates</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Web Performance and Page optimization</td>
+      <td>Creation of technicalOpenAPI Specification</td>
+      <td>Сreation of dynamic popups</td>
+      <td>Landing a site on CMS Wordpress</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Adaptive and flexible layout</td>
+      <td>Live scraping sites</td>
+      <td>Live reload data manipulation</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Mobile first product design</td>
+      <td>Big data experience</td>
+      <td>Chrome API</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td></td>
+      <td>Creating Telegram Bots</td>
+      <td>Сommunication between extensions</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td></td>
+      <td>MVC architecture</td>
+      <td>Live interception of requests</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>Basics of web security, CORS</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+  </table>
+</details>
 
 ## Designer skills
 | № |   Soft-skills   |     Knowledge technologies    |   Software   |
