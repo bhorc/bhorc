@@ -43,16 +43,26 @@ Study period: September 2016 – June 2020
   </ol>
 </details>
 
-## Developer skills
-| № |                Front-end              |      Back-end       |           Knowledge technologies               |          Software          | Initial knowledge  |
-|:-:|:-------------------------------------:|:-------------------:|:----------------------------------------------:|:--------------------------:|:------------------:|
-| 1 |         JS ES6+, Typescript           |      Node.js        |              BEM methodology                   |      Postman, Burpsuite    |     Python, php    |
-| 2 | HTML5, CSS3, <br>Pug, LESS, SCSS/SASS |   Expess, Fastify   |      REST/CRUD API, <br>Websockets, CORS       | Git desktop, <br>GitKraken |     Git console    |
-| 3 |      Bootstrap 5, Tailwind, MUI       |  Mongodb, Mongoose  |     Landing a site on<br>CMS Wordpress         |    Open Server, Heroku     |AWS services, <br>Google console API|
-| 4 |             React, jQuery             |      Socket.io      |            Creating Chrome extensions          |        Gulp, Webpack       | Big data experience|
-| 5 |                                       |       Swagger       |    Web Performance and <br>Page optimization   |      Figma, Photoshop      |                    |
-| 6 |                                       | Selenium, Puppeteer |  Scraping sites and <br>creating Telegram Bots |                            |                    |
-| 7 |                                       |                     | Creation of technical<br>OpenAPI Specification |                            |                    |
+## Developer skills (hard skills)
+| № |              Front-end            |      Back-end       | Initial knowledge |  DevOps (initial)  |        Software        |
+|:-:|:---------------------------------:|:-------------------:|:-----------------:|:------------------:|:----------------------:|
+| 1 |       JS ES6+, Typescript         |      Node.js        |       Python      |    AWS services    |    Postman, Burpsuite  |
+| 2 | HTML5, CSS3, Pug, LESS, SCSS/SASS |   Expess, Fastify   |        php        | Google console API | Git desktop, GitKraken |
+| 3 |    Bootstrap 5, Tailwind, MUI     |  Mongodb, Mongoose  |                   |       Heroku       |     Gulp, Webpack      |
+| 4 |          React, jQuery            |      Socket.io      |                   |                    |    Figma, Photoshop    |
+| 5 |                                   |       Swagger       |                   |                    |                        |
+| 6 |                                   | Selenium, Puppeteer |                   |                    |                        |
+
+### Developer skills (theoretical skills)
+| № |                Front-end                  |                    Back-end                    |   Chrome extensions development  |              Other              |
+|:-:|:-----------------------------------------:|:----------------------------------------------:|:--------------------------------:|:-------------------------------:|
+| 1 |             BEM methodology               |             REST/CRUD API, Websockets          |  Manifest v2 and v3 development  |   Creating Wordpress templates  |
+| 2 | Web Performance and <br>Page optimization | Creation of technical<br>OpenAPI Specification |    Сreation of dynamic popups    | Landing a site on CMS Wordpress |
+| 3 |        Adaptive and flexible layout       |               Live scraping sites              |   Live reload data manipulation  |                                 |
+| 4 |         Mobile first product design       |               Big data experience              |            Chrome API            |                                 |
+| 5 |                                           |              Creating Telegram Bots            | Сommunication between extensions |                                 |
+| 6 |                                           |                 MVC architecture               |  Live interception of requests   |                                 |
+| 7 |                                           |           Basics of web security, CORS         |                                  |                                 |
 
 ## Designer skills
 | № |   Soft-skills   |     Knowledge technologies    |   Software   |
