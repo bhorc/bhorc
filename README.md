@@ -12,7 +12,7 @@
        
   <a href="#education">#Education</a>
        
-  <a href="#developer-skills">#Skills</a>
+  <a href="#developer-skills-hard-skills">#Skills</a>
        
   <a href="#experience">#Experience</a>
        
