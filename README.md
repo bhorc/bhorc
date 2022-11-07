@@ -109,7 +109,7 @@ Study period: September 2016 – June 2020
       <td></td>
     </tr>
     <tr>
-      <td></td>
+      <td>7</td>
       <td></td>
       <td>Basics of web security, CORS</td>
       <td></td>
