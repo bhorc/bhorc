@@ -119,6 +119,19 @@ Study period: September 2016 – June 2020
   </table>
 </details>
 
+<details>
+  <summary><b>Interested in learning. (Сlickable)</b></summary>
+  <ul>
+    <li>GSAP</li>
+    <li>Three.js</li>
+    <li>GraphQL</li>
+    <li>Next.js</li>
+    <li>WebGL</li>
+    <li>gRPC microservices</li>
+    <li>Deepening of knowledge about working with multithreading, kernels and cache</li>
+  </ul>
+</details>
+
 ## Designer skills
 | № |   Soft-skills   |     Knowledge technologies    |   Software   |
 |:-:|:---------------:|:-----------------------------:|:------------:|
